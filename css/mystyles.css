@@ -1,0 +1,18 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+.site-heading-lower{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* if updates dont work, 
+make sure you linked styles to page
+link them correctly below og styles
+make sure everything spelled correctly
+try refreshing page including caps
+try refreshing
+try refreshing without cache
+try !important (before semicolon)
+try a diff browser
+come to class and ask ta
+be satisfied with less style
